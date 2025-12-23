@@ -4,16 +4,11 @@ Chemical Engineer -> Data & Business Intelligence Analyst
 Python | Power BI | SQL | VBA
 
 ### 📌 Featured Documentation
-- 🐍 [Python Automation Scripts](#python)
-- 📊 [Power BI & DAX samples](#power-bi)
-
----
-
 ## 🐍 Python
 - [Python Projects](https://github.com/jkamanalong/python-projects)
 
 ## 📊 Power BI
-- [DAX Measure Library](link)
+- [DAX Measure Library]([link](https://github.com/jkamanalong/power-bi-projects/tree/main))
 
 
 <!--
