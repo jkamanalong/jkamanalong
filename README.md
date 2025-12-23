@@ -1,4 +1,4 @@
-## Hi, I'm Kenneth
+## John Kenneth Mañalong
 
 Chemical Engineer -> Data & Business Intelligence Analyst
 Python | Power BI | SQL | VBA
@@ -11,13 +11,13 @@ Python | Power BI | SQL | VBA
 ---
 
 ## 🐍 Python
-- [...](link)
+- [Python Projects](link)
 
 ## 📊 Power BI
-- [...](link)
+- [DAX Measure Library](link)
 
 ## ⚙️ VBA
-- [...](link)
+- [VBA Library](link)
 
 
 
