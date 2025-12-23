@@ -8,7 +8,7 @@ Python | Power BI | SQL | VBA
 - [Python Projects](https://github.com/jkamanalong/python-projects)
 
 ## 📊 Power BI
-- [DAX Measure Library]([link](https://github.com/jkamanalong/power-bi-projects/tree/main))
+- [DAX Measure Library](https://github.com/jkamanalong/power-bi-projects)
 
 
 <!--
