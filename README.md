@@ -1,7 +1,8 @@
 ## John Kenneth Mañalong
 
 Chemical Engineer -> Data & Business Intelligence Analyst
-Python | Power BI | SQL | VBA
+Microsoft Certified Power BI Analyst
+Python | Power BI | SQL 
 
 ### 📌 Featured Documentation
 ## 🐍 Python
