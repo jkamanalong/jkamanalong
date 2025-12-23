@@ -6,7 +6,6 @@ Python | Power BI | SQL | VBA
 ### 📌 Featured Documentation
 - 🐍 [Python Automation Scripts](#python)
 - 📊 [Power BI & DAX samples](#power-bi)
-- ⚙️ [Excel VBA Utilities](#vba)
 
 ---
 
