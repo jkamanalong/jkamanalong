@@ -11,7 +11,7 @@ Python | Power BI | SQL | VBA
 ---
 
 ## 🐍 Python
-- [Python Projects](link)
+- [Python Projects](https://github.com/jkamanalong/python-projects)
 
 ## 📊 Power BI
 - [DAX Measure Library](link)
