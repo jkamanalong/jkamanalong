@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I'm Kenneth
+
+Chemical Engineer -> Data & Business Intelligence Analyst
+Python | Power BI | SQL | VBA
+
+### 📌 Featured Documentation
+- 🐍 [Python Automation Scripts](#python)
+- 📊 [Power BI & DAX samples](#power-bi)
+- ⚙️ [Excel VBA Utilities](#vba)
+
+---
+
+## 🐍 Python
+- [...](link)
+
+## 📊 Power BI
+- [...](link)
+
+## ⚙️ VBA
+- [...](link)
+
+
 
 <!--
 **jkamanalong/jkamanalong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
