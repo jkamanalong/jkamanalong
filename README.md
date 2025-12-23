@@ -16,13 +16,13 @@ Python | Power BI | SQL | VBA
 ## 📊 Power BI
 - [DAX Measure Library](link)
 
-## ⚙️ VBA
-- [VBA Library](link)
-
-
 
 <!--
 **jkamanalong/jkamanalong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## ⚙️ VBA
+- [VBA Library](link)
+
 
 Here are some ideas to get you started:
 
